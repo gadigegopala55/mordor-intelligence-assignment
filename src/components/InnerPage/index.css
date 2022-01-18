@@ -1,0 +1,38 @@
+.inner-page-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  padding: 10px;
+}
+
+.date-container {
+  background-color: #ffffff;
+  border: 1px solid #6b727d;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.date-heading {
+  font-size: 18px;
+}
+
+.date-image {
+  width: 30px;
+  margin: 10px;
+  height: 30px;
+}
+
+.compare-heading {
+  font-size: 20px;
+  color: blue;
+}
+
+.compare-container {
+  border: 1px solid blue;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
